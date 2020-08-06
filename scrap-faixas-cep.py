@@ -1,28 +1,21 @@
-from urllib import urlopen
-from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.support.ui import Select
+import time
 
-try:
-    html = urlopen("http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm")
-except HTTPError as httpError:
-    print(httpError)
-except URLError as urlError:
-    print(urlError)
-else:
-    page = BeautifulSoup(html.read(), "html5lib")
+options = webdriver.FirefoxOptions()
+options.add_argument('--headless')
 
-    option = page.find('option', {'value':"SC"})
-    option['selected'] = True
+browser = webdriver.Firefox(options=options)
+browser.get("http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm")
 
-    selectedOp = page.find('option',  {'selected': True})
+select = Select(browser.find_element_by_name('UF'))
+select.select_by_value('SC')
 
-    submitBtn = page.find('div', {'class': 'btnform'}).find('input')
+btn = browser.find_element_by_class_name('btnform').find_element_by_tag_name('input')
+btn.click()
 
-    if submitBtn is None:
-        print("Button not found")
-    else:        
-        submitBtn.click()
+# time.sleep(5) 
 
-        if page.title is None:
-            print("Not found")
-        else:
-            print(page.title)
+test = browser.find_element_by_class_name('ctrlcontent')
+
+print(test.text)
