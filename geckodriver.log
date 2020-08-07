@@ -1,83 +1,11 @@
-1596741010651	geckodriver	INFO	Listening on 127.0.0.1:59408
-1596741011662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile57mg7R"
-1596741012298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596741012299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596741012299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596741012299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596741012416	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
-awaitPromise@XPIProvider.jsm:226:15
-syncLoadManifest@XPIInstall.jsm:753:22
-addMetadata@XPIDatabase.jsm:2706:32
-processFileChanges@XPIDatabase.jsm:3145:26
-checkForChanges@XPIProvider.jsm:2924:55
-startup@XPIProvider.jsm:2384:12
-callProvider@AddonManager.jsm:213:31
-_startProvider@AddonManager.jsm:649:17
-startup@AddonManager.jsm:873:14
-startup@AddonManager.jsm:3469:26
-observe@addonManager.js:86:29
-1596741012417	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596741012420	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
-awaitPromise@XPIProvider.jsm:226:15
-syncLoadManifest@XPIInstall.jsm:753:22
-addMetadata@XPIDatabase.jsm:2706:32
-processFileChanges@XPIDatabase.jsm:3145:26
-checkForChanges@XPIProvider.jsm:2924:55
-startup@XPIProvider.jsm:2384:12
-callProvider@AddonManager.jsm:213:31
-_startProvider@AddonManager.jsm:649:17
-startup@AddonManager.jsm:873:14
-startup@AddonManager.jsm:3469:26
-observe@addonManager.js:86:29
-1596741012420	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596741015019	Marionette	INFO	Listening on port 33963
-1596741015095	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596741084820	Marionette	INFO	Stopped listening on port 33963
-1596741123439	geckodriver	INFO	Listening on 127.0.0.1:42688
-1596741123446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileESvgWU"
-1596741124058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596741124058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596741124058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596741124058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596741124161	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
-awaitPromise@XPIProvider.jsm:226:15
-syncLoadManifest@XPIInstall.jsm:753:22
-addMetadata@XPIDatabase.jsm:2706:32
-processFileChanges@XPIDatabase.jsm:3145:26
-checkForChanges@XPIProvider.jsm:2924:55
-startup@XPIProvider.jsm:2384:12
-callProvider@AddonManager.jsm:213:31
-_startProvider@AddonManager.jsm:649:17
-startup@AddonManager.jsm:873:14
-startup@AddonManager.jsm:3469:26
-observe@addonManager.js:86:29
-1596741124162	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596741124162	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
-awaitPromise@XPIProvider.jsm:226:15
-syncLoadManifest@XPIInstall.jsm:753:22
-addMetadata@XPIDatabase.jsm:2706:32
-processFileChanges@XPIDatabase.jsm:3145:26
-checkForChanges@XPIProvider.jsm:2924:55
-startup@XPIProvider.jsm:2384:12
-callProvider@AddonManager.jsm:213:31
-_startProvider@AddonManager.jsm:649:17
-startup@AddonManager.jsm:873:14
-startup@AddonManager.jsm:3469:26
-observe@addonManager.js:86:29
-1596741124163	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596741126302	Marionette	INFO	Listening on port 40580
-1596741126366	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596741139151	Marionette	INFO	Stopped listening on port 40580
-1596741888054	geckodriver	INFO	Listening on 127.0.0.1:60893
-1596741888059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekWp40p"
+1596823374021	geckodriver	INFO	Listening on 127.0.0.1:33841
+1596823374029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYjkO0B"
 *** You are running in headless mode.
-1596741888580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596741888580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596741888581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596741888581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596741888686	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596823374565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596823374565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596823374565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596823374565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596823374678	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -89,8 +17,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596741888687	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596741888687	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596823374679	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596823374679	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -102,18 +30,29 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596741888687	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596741890608	Marionette	INFO	Listening on port 35221
-1596741890669	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596742857645	geckodriver	INFO	Listening on 127.0.0.1:38309
-1596742857650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0GREyv"
+1596823374680	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 73: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource://gre/modules/SafeBrowsing.jsm, line 303: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+1596823376578	Marionette	INFO	Listening on port 43317
+1596823376642	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13194, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /build/firefox-Iz12YA/firefox-70.0+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1596823377273	Marionette	INFO	Stopped listening on port 43317
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ScriptPreloader: Saving bytecode cache","state":"(none)","filename":"/build/firefox-Iz12YA/firefox-70.0+linuxmint1+sylvia/js/xpconnect/loader/ScriptPreloader.cpp","lineNumber":263,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://browser/content/browser.js:_schedulePerWindowIdleTasks/<:2385","chrome://browser/content/browser.js:idleTaskRunner:2311"]}] Barrier: xpcom-will-shutdown
+FATAL ERROR: AsyncShutdown timeout in xpcom-will-shutdown Conditions: [{"name":"ScriptPreloader: Saving bytecode cache","state":"(none)","filename":"/build/firefox-Iz12YA/firefox-70.0+linuxmint1+sylvia/js/xpconnect/loader/ScriptPreloader.cpp","lineNumber":263,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://browser/content/browser.js:_schedulePerWindowIdleTasks/<:2385","chrome://browser/content/browser.js:idleTaskRunner:2311"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 13194, Main Thread] ###!!! ABORT: file /build/firefox-Iz12YA/firefox-70.0+linuxmint1+sylvia/js/xpconnect/loader/ScriptPreloader.cpp, line 263
+[Parent 13194, Main Thread] ###!!! ABORT: file /build/firefox-Iz12YA/firefox-70.0+linuxmint1+sylvia/js/xpconnect/loader/ScriptPreloader.cpp, line 263
+ExceptionHandler::GenerateDump cloned child 13636
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1596823746544	geckodriver	INFO	Listening on 127.0.0.1:49688
+1596823747553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8V7kcf"
 *** You are running in headless mode.
-1596742858212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596742858212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596742858212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596742858212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596742858325	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596823748087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596823748087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596823748087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596823748087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596823748193	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -125,8 +64,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596742858326	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596742858327	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596823748194	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596823748196	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -138,18 +77,19 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596742858327	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596742860235	Marionette	INFO	Listening on port 39973
-1596742860265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596823748196	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596823750032	Marionette	INFO	Listening on port 33557
+1596823750118	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596742882548	geckodriver	INFO	Listening on 127.0.0.1:51675
-1596742882553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled3p3Bz"
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+1596823791181	geckodriver	INFO	Listening on 127.0.0.1:50232
+1596823792194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile17IdpC"
 *** You are running in headless mode.
-1596742883094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596742883095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596742883095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596742883095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596742883206	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596823792689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596823792689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596823792690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596823792690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596823792798	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -161,8 +101,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596742883206	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596742883207	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596823792800	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596823792801	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -174,18 +114,24 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596742883207	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596742885331	Marionette	INFO	Listening on port 38424
-1596742885396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596823792802	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596823794482	Marionette	INFO	Listening on port 44178
+1596823794528	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596742965328	geckodriver	INFO	Listening on 127.0.0.1:48761
-1596742965334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDMQDdx"
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596824243758	geckodriver	INFO	Listening on 127.0.0.1:52772
+1596824243766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileusKpxd"
 *** You are running in headless mode.
-1596742965859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596742965859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596742965859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596742965859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596742965965	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596824244256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596824244256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596824244257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596824244257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596824244374	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -197,8 +143,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596742965965	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596742965966	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596824244374	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596824244375	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -210,18 +156,19 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596742965966	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596742967854	Marionette	INFO	Listening on port 34726
-1596742967956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596824244375	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596824246125	Marionette	INFO	Listening on port 43830
+1596824246205	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596743068026	geckodriver	INFO	Listening on 127.0.0.1:53567
-1596743068031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeiz2mZ"
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+1596824275493	geckodriver	INFO	Listening on 127.0.0.1:57987
+1596824275498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles7hwmF"
 *** You are running in headless mode.
-1596743068577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596743068577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596743068577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596743068577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596743068691	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596824276007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596824276007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596824276008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596824276008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596824276114	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -233,8 +180,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743068691	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743068692	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596824276115	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596824276115	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -246,18 +193,25 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743068692	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743070630	Marionette	INFO	Listening on port 38327
-1596743070687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596824276116	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596824277988	Marionette	INFO	Listening on port 33096
+1596824278049	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596743145067	geckodriver	INFO	Listening on 127.0.0.1:35313
-1596743146071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileev657S"
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+Exiting due to channel error.
+[Child 5842, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Iz12YA/firefox-70.0+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1596824319756	geckodriver	INFO	Listening on 127.0.0.1:49613
+1596824319764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHriTJP"
 *** You are running in headless mode.
-1596743146626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596743146626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596743146627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596743146627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596743146734	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596824320264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596824320264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596824320264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596824320264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596824320366	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -269,8 +223,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743146735	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743146736	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596824320367	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596824320367	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -282,18 +236,22 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743146736	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743149128	Marionette	INFO	Listening on port 43405
-1596743149190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596824320367	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596824322196	Marionette	INFO	Listening on port 36365
+1596824322285	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596743183419	geckodriver	INFO	Listening on 127.0.0.1:59265
-1596743183424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebQ6ewd"
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596824343271	geckodriver	INFO	Listening on 127.0.0.1:58993
+1596824343277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesgQfl0"
 *** You are running in headless mode.
-1596743183961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596743183962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596743183963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596743183963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596743184065	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596824343794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596824343794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596824343794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596824343794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596824343894	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -305,8 +263,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743184065	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743184066	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596824343895	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596824343895	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -318,18 +276,22 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743184066	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743186165	Marionette	INFO	Listening on port 43692
-1596743186244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596824343896	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596824345696	Marionette	INFO	Listening on port 44023
+1596824345799	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596743279487	geckodriver	INFO	Listening on 127.0.0.1:37542
-1596743279492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOVGHpq"
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596825028060	geckodriver	INFO	Listening on 127.0.0.1:51490
+1596825028065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWUCmPu"
 *** You are running in headless mode.
-1596743280020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596743280021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596743280021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596743280021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596743280128	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596825028567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596825028568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596825028568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596825028568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596825028669	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -341,8 +303,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743280128	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743280129	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596825028669	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825028670	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -354,18 +316,24 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743280129	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743282063	Marionette	INFO	Listening on port 34132
-1596743282113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596825028670	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825030373	Marionette	INFO	Listening on port 41716
+1596825030476	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596743396035	geckodriver	INFO	Listening on 127.0.0.1:34443
-1596743396039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileokyXNG"
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596825204581	geckodriver	INFO	Listening on 127.0.0.1:43387
+1596825204588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSpLnl8"
 *** You are running in headless mode.
-1596743396628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596743396628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596743396628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596743396628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596743396742	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596825205093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596825205093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596825205093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596825205093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596825205194	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -377,8 +345,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743396742	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743396743	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596825205195	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825205195	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -390,19 +358,19 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743396743	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743398426	Marionette	INFO	Listening on port 46709
-1596743398447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596825205196	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825207126	Marionette	INFO	Listening on port 37194
+1596825207203	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596743698580	geckodriver	INFO	Listening on 127.0.0.1:35449
-1596743698584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeiBcSO"
+1596825233802	geckodriver	INFO	Listening on 127.0.0.1:35367
+1596825233810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefwqrFQ"
 *** You are running in headless mode.
-1596743699124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596743699124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596743699124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596743699124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596743699227	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596825234315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596825234315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596825234316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596825234316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596825234416	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -414,8 +382,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743699227	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743699228	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596825234417	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825234417	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -427,18 +395,26 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743699228	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743701050	Marionette	INFO	Listening on port 36199
-1596743701108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596825234418	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825236142	Marionette	INFO	Listening on port 46139
+1596825236225	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
-1596743813415	geckodriver	INFO	Listening on 127.0.0.1:51398
-1596743814421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRKkU8S"
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 7567, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Iz12YA/firefox-70.0+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1596825314014	geckodriver	INFO	Listening on 127.0.0.1:42715
+1596825314026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDjuFsH"
 *** You are running in headless mode.
-1596743814959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1596743814960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1596743814960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1596743814960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1596743815078	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596825314535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596825314535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596825314535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596825314535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596825314648	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -450,8 +426,8 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743815079	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743815079	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+1596825314648	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825314649	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
 awaitPromise@XPIProvider.jsm:226:15
 syncLoadManifest@XPIInstall.jsm:753:22
 addMetadata@XPIDatabase.jsm:2706:32
@@ -463,8 +439,201 @@ _startProvider@AddonManager.jsm:649:17
 startup@AddonManager.jsm:873:14
 startup@AddonManager.jsm:3469:26
 observe@addonManager.js:86:29
-1596743815080	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
-1596743817495	Marionette	INFO	Listening on port 35961
-1596743817536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596825314649	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825318990	Marionette	INFO	Listening on port 37626
+1596825319049	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
 JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7789, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Iz12YA/firefox-70.0+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1596825607653	geckodriver	INFO	Listening on 127.0.0.1:41403
+1596825608666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHhtCmG"
+*** You are running in headless mode.
+1596825609185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596825609185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596825609185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596825609185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596825609294	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:753:22
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:17
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:86:29
+1596825609295	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825609295	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:753:22
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:17
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:86:29
+1596825609295	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825611202	Marionette	INFO	Listening on port 42765
+1596825611284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+1596825672362	geckodriver	INFO	Listening on 127.0.0.1:46740
+1596825672367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXIYMn0"
+*** You are running in headless mode.
+1596825672886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596825672886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596825672887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596825672887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596825672989	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:753:22
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:17
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:86:29
+1596825672990	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825672990	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:753:22
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:17
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:86:29
+1596825672990	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825674664	Marionette	INFO	Listening on port 33217
+1596825674683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+1596825740678	geckodriver	INFO	Listening on 127.0.0.1:36796
+1596825740688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQWzJdb"
+*** You are running in headless mode.
+1596825741217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596825741218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596825741218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596825741218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596825741327	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:753:22
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:17
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:86:29
+1596825741327	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825741327	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:753:22
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:17
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:86:29
+1596825741328	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825743096	Marionette	INFO	Listening on port 45862
+1596825743199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+1596825772634	geckodriver	INFO	Listening on 127.0.0.1:36735
+1596825772646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQN77Gn"
+*** You are running in headless mode.
+1596825773148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596825773148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596825773149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596825773149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596825773253	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:753:22
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:17
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:86:29
+1596825773254	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825773254	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:753:22
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:17
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:86:29
+1596825773255	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825775124	Marionette	INFO	Listening on port 36531
+1596825775187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+1596825830119	geckodriver	INFO	Listening on 127.0.0.1:58298
+1596825830127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZZVW84"
+*** You are running in headless mode.
+1596825830628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596825830629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596825830629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596825830629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596825830730	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:753:22
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:17
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:86:29
+1596825830730	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825830731	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: File /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:669:11) JS Stack trace: loadManifest@XPIInstall.jsm:669:11
+awaitPromise@XPIProvider.jsm:226:15
+syncLoadManifest@XPIInstall.jsm:753:22
+addMetadata@XPIDatabase.jsm:2706:32
+processFileChanges@XPIDatabase.jsm:3145:26
+checkForChanges@XPIProvider.jsm:2924:55
+startup@XPIProvider.jsm:2384:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:17
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3469:26
+observe@addonManager.js:86:29
+1596825830731	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1596825832542	Marionette	INFO	Listening on port 41528
+1596825832642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaFaixaCep.cfm, line 134: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
