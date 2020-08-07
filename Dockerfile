@@ -3,7 +3,7 @@ FROM python:3
 RUN apt-get update
 
 # Install the latest version of Firefox:
-RUN apt-get install \
+RUN apt-get install --no-install-recommends --no-install-suggests -y \
     libgtk-3-0 \
     libdbus-glib-1-2 \
     bzip2 \
