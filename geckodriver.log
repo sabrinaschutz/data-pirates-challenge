@@ -637,3 +637,18 @@ JavaScript warning: http://www.buscacep.correios.com.br/sistemas/buscacep/buscaF
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1596829233802	Marionette	INFO	Stopped listening on port 45862
+1596829233816	Marionette	INFO	Stopped listening on port 42765
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596829233855	Marionette	INFO	Stopped listening on port 43830
+1596829233873	Marionette	INFO	Stopped listening on port 37194
+1596829233886	Marionette	INFO	Stopped listening on port 33217
+1596829233910	Marionette	INFO	Stopped listening on port 33557
+1596829233934	Marionette	INFO	Stopped listening on port 36531
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
