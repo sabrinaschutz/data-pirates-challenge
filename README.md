@@ -18,4 +18,4 @@ Run the script:
 python faixas-cep.py
 ```
 
-Results will appear in the faixas-cep.jsol file ;)
+Results will appear in the faixas-cep.jsonl file ;)
